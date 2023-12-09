@@ -9,7 +9,7 @@
 	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Hiddenemail" : "mmohammed@amplify.com" } );
 });
 			embeddedservice_bootstrap.init(
-				console.log( "Inside INIT!" );
+				
 				'00DNq000000H9QH',
 				'Miaw_git_hub',
 				'https://amplify--sandboxpc.sandbox.my.site.com/ESWMiawgithub1702107659319',
