@@ -1,5 +1,6 @@
 <html>
 	<body>
+		Content-Security-Policy: script-src 'self' https://apis.google.com
  <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
