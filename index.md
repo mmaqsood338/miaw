@@ -1,6 +1,6 @@
 <html>
 <head>
-	Content-Security-Policy: script-src 'self' https://amplify--sandboxpc.sandbox.my.site.com
+	<meta Content-Security-Policy: script-src 'self' https://amplify--sandboxpc.sandbox.my.site.com>
 </head>
 
 	<body>
