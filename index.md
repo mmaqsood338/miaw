@@ -1,8 +1,9 @@
 <html>
-
-	<meta http-equiv="Content-Security-Policy" content="default-src 'self'; frame-src 'self' *.salesforce.com *.force.com;">
-
-
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; frame-src 'self' *.salesforce.com *.force.com;">
+    <!-- other meta tags and head content -->
+</head>
 	<body>
 		<script type='text/javascript'>
 	function initEmbeddedMessaging() {
