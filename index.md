@@ -5,15 +5,15 @@
 	<body>
 		
 
- <script type='text/javascript'>
+<script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
 			embeddedservice_bootstrap.init(
 				'00DNq000000H9QH',
-				'MIAW_SF_Test',
-				'https://amplify--sandboxpc.sandbox.my.site.com/ESWMIAWSFTest1702218452582',
+				'Miaw_git_hub',
+				'https://amplify--sandboxpc.sandbox.my.site.com/ESWMiawgithub1702107659319',
 				{
 					scrt2URL: 'https://amplify--sandboxpc.sandbox.my.salesforce-scrt.com'
 				}
@@ -23,7 +23,8 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://amplify--sandboxpc.sandbox.my.site.com/ESWMIAWSFTest1702218452582/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://amplify--sandboxpc.sandbox.my.site.com/ESWMiawgithub1702107659319/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
 
 
 	</body>
