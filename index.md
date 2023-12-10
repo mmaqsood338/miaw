@@ -1,6 +1,7 @@
 <html>
 
-	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<meta http-equiv="Content-Security-Policy" content="default-src 'self'; frame-src 'self' *.salesforce.com *.force.com;">
+
 
 	<body>
 		<script type='text/javascript'>
