@@ -1,6 +1,9 @@
 <html>
-	<body>
+	<head>
 		<meta http-equiv="Content-Security-Policy" content="script-src 'self' https://apis.google.com">
+	</head>
+	<body>
+		
 
  <script type='text/javascript'>
 	function initEmbeddedMessaging() {
