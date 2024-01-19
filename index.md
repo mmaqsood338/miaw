@@ -11,7 +11,7 @@
 			
 			window.addEventListener("onEmbeddedMessagingReady", () => {            
 	console.log( "Inside Prechat API!!" );
-	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Email" : "oprotsiuk@amplify.com" } );
+	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Email" : "edam_system_access_user@example.com" } );
 });
 
 			embeddedservice_bootstrap.init(
