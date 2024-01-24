@@ -12,6 +12,9 @@
 			window.addEventListener("onEmbeddedMessagingReady", () => {            
 	console.log( "Inside Prechat API!!" );
 	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Email" : "edam_system_access_user@example.com" } );
+	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Current_Context" : "webportal" } );
+	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "AMP_inst_id" : "79886" } );
+	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Referral_URL" : "google.com" } );
 });
 
 			embeddedservice_bootstrap.init(
