@@ -15,7 +15,7 @@
 	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Current_Context" : "webportal" } );
 	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "AMP_inst_id" : "79886" } );
 	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Referral_URL" : "google.com" } );
-	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Phone" : 99897" } );
+	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Phone" : "99897" } );
 	embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "First_Name" : "Maq git" } );
         embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( { "Last_Name" : "Mohammed" } );
 				
