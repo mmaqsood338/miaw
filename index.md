@@ -22,15 +22,12 @@
 });
 
 			embeddedservice_bootstrap.init(
-				console.error('1');
+				
 				'00DOv00000169rF',
 				'MIAW_Chat_in_Amplify_Product',
-					console.error('2');
 				'https://amplify--bsbox.sandbox.my.site.com/ESWMIAWChatinAmplifyP1713006318201',
 				{
-					console.error('3');
 					scrt2URL: 'https://amplify--bsbox.sandbox.my.salesforce-scrt.com'
-				console.error('4');
 				}
 			);
 		} catch (err) {
