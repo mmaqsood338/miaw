@@ -22,11 +22,11 @@
 });
 
 			embeddedservice_bootstrap.init(
-				'00DNq000000H9QH',
-				'MIAW_SF_Test',
-				'https://amplify--sandboxpc.sandbox.my.site.com/ESWMIAWSFTest1702218452582',
+				'00DOv00000169rF',
+				'MIAW_Chat_in_Amplify_Product',
+				'https://amplify--bsbox.sandbox.my.site.com/ESWMIAWChatinAmplifyP1713006318201',
 				{
-					scrt2URL: 'https://amplify--sandboxpc.sandbox.my.salesforce-scrt.com'
+					scrt2URL: 'https://amplify--bsbox.sandbox.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -34,7 +34,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://amplify--sandboxpc.sandbox.my.site.com/ESWMIAWSFTest1702218452582/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://amplify--bsbox.sandbox.my.site.com/ESWMIAWChatinAmplifyP1713006318201/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 	</body>
 </html>
