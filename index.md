@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>MIAW Chat with Custom Styling</title>
-  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://amplify--bsbox.sandbox.my.site.com">
 
   <!-- Custom CSS Styling -->
   <style>
